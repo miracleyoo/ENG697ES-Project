@@ -1,3 +1,7 @@
+// Author: Miracleyoo
+// E-mail: mirakuruyoo@gmail.com
+// Date: 2019.09.22
+
 #include <iostream>
 #include <fstream>
 #include <bitset>
