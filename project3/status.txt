@@ -1,7 +1,0 @@
-256 4096 1024 part2sequence:
-	md5sum: b86c2bd87547f33d165346d6c82f3424
-	Total page fault: 3324
-
-128 4096 2048 part2sequence:
-	md5sum: c5ac1b50575c56e1bf112b873ef041d7
-	Total page fault: 2132
