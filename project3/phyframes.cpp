@@ -11,8 +11,6 @@ using namespace std;
 
 Node *head_ref = NULL; // The head of the double linked list
 Node *tail_ref = NULL; // The tail of the double linked list
-int virtual_to_physical_list[32] = {0}; // A list which map virtual address to physical address
-int physical_to_virtual_list[7] = {0};  // A list which map physical address to virtual address
 void searchAndPush(int data_search);
 void push(int new_data);
 void cutTailAddHead(int data_replace);
