@@ -23,7 +23,7 @@ If you can understand all of these questions, now you can proceed to design a pa
 ## Part 1: 30 points
 This component will simply get you started. Assume that the page table of the process is like the following picture.
 
-https://people.umass.edu/tongping/teaching/ce697/assignment1/pagetable.jpg
+![Pagetable](https://people.umass.edu/tongping/teaching/ce697/assignment1/pagetable.jpg)
 
 Note that only a few entries of the process' page table are listed, as we will only use the first seven entries in Part 1.
 
